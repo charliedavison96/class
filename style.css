@@ -1,0 +1,9 @@
+  p#important, h1#important 
+
+ {color: blue; background-color: green}
+
+	.original { font-size: 30px;}
+
+	.new {text-decoration: underline;}
+
+	#box { padding: 30px; border: 50px solid blue; border-width: 5px; background-color:  green;}
